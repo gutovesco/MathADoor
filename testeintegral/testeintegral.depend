@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573257140 source:c:\users\guto\desktop\testeintegral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
